@@ -1,2 +1,2 @@
-stefaniegirsberger.github.io
-www.stefaniegirsberger.github.io
+stefaniegirsberger.ch
+www.stefaniegirsberger.ch
