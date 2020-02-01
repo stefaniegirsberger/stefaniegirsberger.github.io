@@ -1,0 +1,63 @@
+*
+{
+    magrin: 0;
+    padding: 0;
+}
+
+.wrapper{
+    max-width: 600px
+    margin: 0 auto;
+
+}
+.TextName {
+    padding: 20px 30px 20px;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 18px;
+    color: black;
+    line-height: 0.1;
+    margin: 0 auto;
+
+}
+
+.TextAdresse {
+    padding: 200px 30px 20px;
+    font-family: 'Tajawal', sans-serif;
+    font-size: 8px;
+    color: black;
+    line-height: 0.4;
+    margin: 0 auto;
+}
+
+.Figure{
+    text-align: lef;
+    padding: 100px 30px 10px;
+    max-width: 600px;
+    margin: 0 auto;
+    font-family: 'Tajawal', sans-serif;
+    font-size: 8px;
+    color: black;
+    line-height: 0px;
+}
+
+.Bild {
+   padding: 10px 30px 1px;
+    max-width: 600px;
+    margin: 0 auto;
+
+}
+
+.TextBeschriebBild{
+    padding: 1px 30px 1px;
+    font-family: 'Tajawal', sans-serif;
+    font-size: 8px;
+    color: black;
+    line-height: 15px;
+    margin: 0 auto;
+    align-items: baseline,
+        }
+
+
+header
+{
+    background-image: url()
+}
